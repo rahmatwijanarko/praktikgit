@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>
+	</head>
+	<body>
+		<h1 style="text-align;">Percobaan Commit</h1>
+		<p>Text di atas berada di tengah</p>
+		<p>Text di atas dan ini berada sebelah kiri</p>
+	</body>
+</html>
